@@ -6,7 +6,12 @@ You can access it here on vercel: https://sin-validator-dv5pokxbw-bilals-project
 
 ## Instructions for running the project yourself
 
-This project is built with [Vite](https://vitejs.dev/), Typescript and [shadcn/ui](https://ui.shadcn.com/). After cloning it, please run `npm install` and then `npm run dev` and you should be able to access it at [http://localhost:5173/](http://localhost:5173/).
+This project is built with [Vite](https://vitejs.dev/), Typescript and [shadcn/ui](https://ui.shadcn.com/).
+
+1. Clone the project
+2. run `npm install`
+3. run `npm run dev`
+4. access the web app at [http://localhost:5173/](http://localhost:5173/).
 
 ---
 
